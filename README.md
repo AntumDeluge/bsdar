@@ -6,4 +6,4 @@ The intention behind this fork is to create a portable alternative to [dpkg](htt
 
 The reasoning behind using the BSD variant over GNU is that archives produced with it are compatible with those of dpkg, while GNU's are not (citation needed).
 
-This has been forked from [FreeBSD's HEAD Subversion repository](http://svn.freebsd.org/base/head/usr.bin/ar/).
+This has been forked from [FreeBSD's HEAD Subversion repository](http://svn.freebsd.org/base/head/usr.bin/ar/) (revision [301974](https://svnweb.freebsd.org/base/head/usr.bin/ar/?pathrev=301974).
