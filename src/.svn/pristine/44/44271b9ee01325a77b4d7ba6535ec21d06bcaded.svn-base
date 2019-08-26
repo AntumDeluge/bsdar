@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: head/usr.bin/ar/write.c 346582 2019-04-22 19:55:47Z emaste $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/endian.h>
 #include <sys/mman.h>

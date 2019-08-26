@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: head/usr.bin/ar/acpyacc.y 339648 2018-10-23 13:07:03Z emaste $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/mman.h>
 #include <sys/param.h>

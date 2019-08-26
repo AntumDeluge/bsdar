@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: head/usr.bin/ar/read.c 346079 2019-04-10 13:13:34Z emaste $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/queue.h>
 #include <sys/stat.h>
